@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://tv-trt1.medya.trt.com.tr/master.m3u8
