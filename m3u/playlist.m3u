@@ -122,14 +122,16 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" tvg-name="Fenerbahçe TV" group-title="🇹🇷 TÜRKİYE",Fenerbahçe TV
 https://trn03.tulix.tv/gt-fbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/kanallar-49-1-768x768.png" group-title="🇹🇷 TÜRKİYE",S Sport
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+https://tv.test/test.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/s-sport2-768x768.png" group-title="🇹🇷 TÜRKİYE",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="🇹🇷 TÜRKİYE",SporSmart
 https://tv1.arectv30.sbs/live/smart1.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/a/Bl/14585/Thumbnail.png?v=636996602766471783" group-title="🇹🇷 TÜRKİYE",SporSmart 2
 https://tv1.arectv30.sbs/live/smart2.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" tvg-name="Tivibu Spor" group-title="🇹🇷 TÜRKİYE",Tivibu Spor
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12843.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="🇹🇷 TÜRKİYE",Tivibu Spor 1
@@ -140,10 +142,13 @@ https://tv1.arectv30.sbs/live/t2.m3u8
 https://tv1.arectv30.sbs/live/t3.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="🇹🇷 TÜRKİYE",Tivibu Spor 4
 https://tv1.arectv30.sbs/live/t4.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=573" tvg-name="beIN Sports Haber" group-title="🇹🇷 TÜRKİYE",beIN Sports Haber
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="🇹🇷 TÜRKİYE",beIN Sports 1
 http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597542&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="🇹🇷 TÜRKİYE",beIN Sports 1[YEDEK]
+http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/37
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="🇹🇷 TÜRKİYE",beIN Sports 2
 http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597530&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="🇹🇷 TÜRKİYE",beIN Sports 3
