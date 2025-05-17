@@ -70,7 +70,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-name="ATV Avrupa" group-title="Türkiye",ATV AVRUPA
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" tvg-name="TV 8 INT" group-title="Türkiye",TV 8 INT
-http://162.212.179.33/dvrfl05/gin-tv8int/playlist.m3u8
+http://flussonic.izone.az/tv8int/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="Türkiye",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" tvg-name="Show Türk" group-title="Türkiye",SHOW TÜRK
@@ -110,6 +110,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" tvg-name="TV 4" group-title="Türkiye",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 @cavad_m44
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT 3 SPOR
+http://flussonic.izone.az/trt3spor/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT Spor
