@@ -123,7 +123,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="Türkiye",HT-SPOR TV
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" tvg-name="Fenerbahçe TV" group-title="Türkiye",Fenerbahçe TV
-https://trn03.tulix.tv/gt-fbtv/playlist.m3u8
+http://flussonic.izone.az/fb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/kanallar-49-1-768x768.png" group-title="Türkiye",S Sport
 #EXTVLCOPT:http-referer=https://betpublictv20.com/
