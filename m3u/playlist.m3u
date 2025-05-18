@@ -147,24 +147,48 @@ https://tv1.arectv30.sbs/live/t3.m3u8
 https://tv1.arectv30.sbs/live/t4.m3u8
 @cavad_m44
 #EXTINF:1 tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=573" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-haber.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597542&extension=m3u8
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1[YEDEK]
 http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/37
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 2
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597530&extension=m3u8
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-2.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 3
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597531&extension=m3u8
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-3.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 4
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=597532&extension=m3u8
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-4.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 5
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=552127&extension=ts
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-5.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=552126&extension=m3u8
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-max-1.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max 2
-http://atakportal.xyz:8080/play/live.php?mac=00:1A:79:01:6A:BA&stream=552125&extension=ts
-@cavad_m44
+#EXTVLCOPT:http-referrer=https://pulitv18.live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://nxn5.xyz/cdn/bein-sports-max-2.m3u8?|referer=https://pulitv18.live/
+
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" tvg-name="TRT Çocuk" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" group-title="Türkiye",TRT Çocuk-2
