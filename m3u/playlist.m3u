@@ -124,17 +124,24 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" tvg-name="Fenerbahçe TV" group-title="Türkiye",Fenerbahçe TV
 https://trn03.tulix.tv/gt-fbtv/playlist.m3u8
-@cavad_m44
+
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/kanallar-49-1-768x768.png" group-title="Türkiye",S Sport
-https://tv.test/test.m3u8
+#EXTVLCOPT:http-referer=https://betpublictv20.com/
+#EXTVLCOPT:http-origin=https://betpublictv20.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://35mumdur.shop/705/tracks-v1a1/mono.m3u8?|Referer=https://betpublictv20.com/
+
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/s-sport2-768x768.png" group-title="Türkiye",S Sport 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTVLCOPT:http-referer=https://betpublictv20.com/
+#EXTVLCOPT:http-origin=https://betpublictv20.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://35mumdur.shop/730/tracks-v1a1/mono.m3u8?|Referer=https://betpublictv20.com/
 
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Türkiye",SporSmart
 https://tv1.arectv30.sbs/live/smart1.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/a/Bl/14585/Thumbnail.png?v=636996602766471783" group-title="Türkiye",SporSmart 2
 https://tv1.arectv30.sbs/live/smart2.m3u8
-@cavad_m44
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" tvg-name="Tivibu Spor" group-title="Türkiye",Tivibu Spor
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12843.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="Türkiye",Tivibu Spor 1
