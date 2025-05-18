@@ -160,9 +160,7 @@ https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/
 http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/37
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 2
-#EXTVLCOPT:http-referrer=https://pulitv18.live
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://nxn5.xyz/cdn/bein-sports-2.m3u8?|referer=https://pulitv18.live/
+http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/44
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 3
 #EXTVLCOPT:http-referrer=https://pulitv18.live
