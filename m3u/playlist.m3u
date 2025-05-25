@@ -253,6 +253,8 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=VXMR3YQ7W3s.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc31.tvplus.com.tr:33207/CPS/images/universal/film/logo/202211/20221125/81/20221125094959589je3_op_0_XL.png" tvg-name="HABERGLOBAL" group-title="Türkiye",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/42/2119213578445eb78424_op_0_XL.webp" tvg-name="EKOL TV" group-title="Türkiye",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV Türk" group-title="Türkiye",NTV TR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV 100" group-title="Türkiye",TV 100
