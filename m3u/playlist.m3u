@@ -284,7 +284,7 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Tay-TV-768x768.png" tvg-name="Tay TV" group-title="Türkiye",Tay TV
 https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=ZTtn95gTLlQ.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="Türkiye",Ulusal TV
-https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=dK96AZbCns0
 #EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiye",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="Türkiye",Sözcü TV
