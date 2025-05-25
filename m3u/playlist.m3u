@@ -156,7 +156,7 @@ https://tv1.arectv30.sbs/live/t3.m3u8
 https://tv1.arectv30.sbs/live/t4.m3u8
 @cavad_m44
 #EXTINF:1 tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=573" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
-http://162.212.179.33/dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1[OFFLINE]
 https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bs1
@@ -238,7 +238,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/F2Xoptv.png" tvg-name="TRT ARABIA" group-title="Türkiye",TRT ARABIA
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Anews.png" group-title="Türkiye",A News
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" tvg-name="HABERGLOBAL" group-title="Türkiye",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/e97IkoU.png" tvg-name="TRT Haber" group-title="Türkiye",TR • TRT HABER HD
@@ -250,7 +250,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/24.png" tvg-name="24 TV" group-title="Türkiye",24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_CNN_T%C3%BCrk.svg/1200px-Logo_CNN_T%C3%BCrk.svg.png" tvg-name="CNN TURK" group-title="Türkiye",CNN TURK
-http://162.212.179.33:80/dvrfl05/gin-cnn-turk/playlist.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=VXMR3YQ7W3s.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc31.tvplus.com.tr:33207/CPS/images/universal/film/logo/202211/20221125/81/20221125094959589je3_op_0_XL.png" tvg-name="HABERGLOBAL" group-title="Türkiye",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV Türk" group-title="Türkiye",NTV TR
@@ -288,7 +288,7 @@ https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiye",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="Türkiye",Sözcü TV
-http://185.234.111.229:8000/play/a00y
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiye",TMB TR TV
 http://stream.tvcdn.net/muzik/tmb.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiye",KRAL POP TV
