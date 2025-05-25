@@ -171,16 +171,16 @@ https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bs2
 https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bs3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 4
-
+https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bs4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 5
-http://xtream-ie.org/live/FreeShot/MurredenHediye2025/9.m3u8
+https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bs5
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max
-http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/50
+https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bm1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max 2
-http://it1.com.mx:80/sakultafreeyayın/sakultafreeyayın/52
+https://koprulu3.global.ssl.fastly.net/rectv3.m3u8/?id=bm2
 
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" tvg-name="TRT Çocuk" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
