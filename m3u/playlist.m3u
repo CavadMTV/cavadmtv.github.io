@@ -124,8 +124,11 @@ http://flussonic.izone.az/trt3spor/index.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT Spor
 http://flussonic.izone.az/trt3spor/index.m3u8
+
 #EXTINF:1 tvg-id="TRT Spor Yıldız" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" tvg-language="Turkish" group-title="Türkiye",TRT SPOR YILDIZ HD
-http://162.212.179.33/dvrfl05/gin-trtspor2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="Türkiye",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="Türkiye",HT-SPOR TV
