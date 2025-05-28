@@ -59,7 +59,7 @@ https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
-http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="AYAZ TV" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
