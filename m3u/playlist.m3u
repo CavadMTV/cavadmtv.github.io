@@ -66,7 +66,7 @@ https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ATV CINEMA
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
-@cavad_m44
+
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" group-title="Türkiye",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1" group-title="Türkiye",TRT 1 HD-2
@@ -111,13 +111,15 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/500px-TRT_4K.svg.png" tvg-name="TRT 4K" group-title="Türkiye",TRT 4K
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1842&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/500px-TRT_4K.svg.png" tvg-name="TRT 4K" group-title="Türkiye",TRT 4K-2
+http://77.90.14.115:8080/6347
 #EXTINF:1 tvg-id="" tvg-logo="https://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" tvg-name="TRT 2" group-title="Türkiye",TRT2 HD
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" tvg-name="Beyaz TV" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" tvg-name="TV 4" group-title="Türkiye",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-@cavad_m44
+
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT 3 SPOR
 http://flussonic.izone.az/trt3spor/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
@@ -158,7 +160,7 @@ https://tv1.arectv30.sbs/live/t3.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="Türkiye",Tivibu Spor 4
 https://tv1.arectv30.sbs/live/t4.m3u8
 
->beIN Sports<
+
 #EXTINF:1 tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=573" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 
@@ -186,7 +188,7 @@ https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max 2
 https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm2
 
->YEDEK BEIN SPORT<
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye",beIN Sports 1 FHD
 https://test.dreamboxserver.net/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Türkiye",beIN Sports 2 FHD
@@ -202,7 +204,7 @@ https://test.dreamboxserver.net/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011561" group-title="Türkiye",beIN Sports MAX 2 HD
 https://test.dreamboxserver.net/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
 
-->ÇOCUK KANALLARI<-
+
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" tvg-name="TRT Çocuk" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" group-title="Türkiye",TRT Çocuk-2
@@ -216,8 +218,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" group-title="Türkiye",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="Türkiye",Cartoonito
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
-@cavad_m44
+http://77.90.14.115:8080/107321
+
 #EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor
@@ -234,12 +236,12 @@ https://tv1.arectv30.sbs/live/tabi4.m3u8
 https://tv1.arectv30.sbs/live/tabi5.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 6
 https://tv1.arectv30.sbs/live/tabi6.m3u8
-@cavad_m44
+
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524820.png" group-title="Türkiye",bluTV Play 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524562.png" group-title="Türkiye",bluTV Play 2
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-@cavad_m44
+
 #EXTINF:1 tvg-id="TRT EBA" tvg-logo="https://gbzottvsc16.tvplus.com.tr:33207/CPS/images/universal/film/logo/202401/20240130/80/0737080201945eb88428_op_0_XL.png" tvg-name="TRT EBA" group-title="Türkiye",TRT EBA
 https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/8AmNMJE.png" tvg-name="TRT WORLD" group-title="Türkiye",TRT WORLD
@@ -442,6 +444,7 @@ https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://smotret.tv/images/powerturk-slow.jpg" tvg-name="POWER Türk Slow" group-title="Türkiye 》 Özel",POWER Türk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="📻 RADIO / AZERBAIJAN",İctimai Radio 90FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
 #EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" tvg-copyright="@aligoshgartv" group-title="📻 RADIO / AZERBAIJAN",Azərbaycan Radiosu
