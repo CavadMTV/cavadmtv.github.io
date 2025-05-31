@@ -157,7 +157,8 @@ https://tv1.arectv30.sbs/live/t2.m3u8
 https://tv1.arectv30.sbs/live/t3.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="Türkiye",Tivibu Spor 4
 https://tv1.arectv30.sbs/live/t4.m3u8
-@cavad_m44
+
+>beIN Sports<
 #EXTINF:1 tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=573" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 
@@ -185,6 +186,23 @@ https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max 2
 https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm2
 
+>YEDEK BEIN SPORT<
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye",beIN Sports 1 FHD
+https://test.dreamboxserver.net/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Türkiye",beIN Sports 2 FHD
+https://test.dreamboxserver.net/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Türkiye",beIN Sports 3 HD
+https://test.dreamboxserver.net/Bein-Sport-3-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Türkiye",beIN Sports 4 HD
+https://test.dreamboxserver.net/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Türkiye",beIN Sports 5
+https://test.dreamboxserver.net/Bein-Sport-5-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye",beIN Sports MAX HD
+https://test.dreamboxserver.net/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011561" group-title="Türkiye",beIN Sports MAX 2 HD
+https://test.dreamboxserver.net/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
+
+->ÇOCUK KANALLARI<-
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" tvg-name="TRT Çocuk" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211214/46/20211214232623971xm0_op_0_XL.png" group-title="Türkiye",TRT Çocuk-2
