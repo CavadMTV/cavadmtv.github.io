@@ -140,9 +140,13 @@ http://flussonic.izone.az/fb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/kanallar-49-1-768x768.png" group-title="Türkiye",S Sport
 https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=ss1
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/kanallar-49-1-768x768.png" group-title="Türkiye",S Sport(YEDEK)
+https://test.dreamboxserver.net/ssport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/s-sport2-768x768.png" group-title="Türkiye",S Sport 2
 https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=ss2
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/s-sport2-768x768.png" group-title="Türkiye",S Sport 2(YEDEK)
+https://test.dreamboxserver.net/ssport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Türkiye",SporSmart
 https://tv1.arectv30.sbs/live/smart1.m3u8
@@ -238,9 +242,9 @@ https://tv1.arectv30.sbs/live/tabi5.m3u8
 https://tv1.arectv30.sbs/live/tabi6.m3u8
 
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524820.png" group-title="Türkiye",bluTV Play 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+http://77.90.14.115:8080/102695
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524562.png" group-title="Türkiye",bluTV Play 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+http://77.90.14.115:8080/102696
 
 #EXTINF:1 tvg-id="TRT EBA" tvg-logo="https://gbzottvsc16.tvplus.com.tr:33207/CPS/images/universal/film/logo/202401/20240130/80/0737080201945eb88428_op_0_XL.png" tvg-name="TRT EBA" group-title="Türkiye",TRT EBA
 https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
