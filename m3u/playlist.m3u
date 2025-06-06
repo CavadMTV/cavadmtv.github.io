@@ -7,7 +7,7 @@ http://flussonic.izone.az/azadazerbaycan/index.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 http://flussonic.izone.az/xezertv/index.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
-http://flussonic.izone.az/arb/index.m3u8
+https://yayin2.canlitv.fun/live/beinsporthaber.stream/playlist.m3u8
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
 https://live.itv.az/itv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
