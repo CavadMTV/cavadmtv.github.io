@@ -21,7 +21,7 @@ http://flussonic.izone.az/realtv/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Baku TV
 http://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
-str2.yodacdn.net/meden_300_to_small/index.m3u8
+https://str2.yodacdn.net/meden_300_to_small/index.m3u8
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-language="Azerbaijani" group-title="Azərbaycan",CBC TV
@@ -29,7 +29,7 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="Azərbaycan",CBC Sport
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" group-title="Azərbaycan",Naxçıvan TV
-https://str1.yodacdn.net/ntv/index.m3u8
+https://str.yodacdn.net/ntv/index.m3u8
 #EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",MATCH TV
 http://flussonic.izone.az/matchtv/index.m3u8
 #EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",Match Futbol 1
@@ -55,7 +55,7 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:1 tvg-id="SHOW PLUS TV" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
-https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="AYAZ TV" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ATV CINEMA
+#EXTINF:1 tvg-id="ATVCinema.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ATV CINEMA
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" group-title="Türkiye",TRT 1 HD
