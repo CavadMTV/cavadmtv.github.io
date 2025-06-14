@@ -145,7 +145,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 http://flussonic.izone.az/trtspor/index.m3u8
 
 #EXTINF:1 tvg-id="TRT Spor Yıldız" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" tvg-language="Turkish" group-title="Türkiye",TRT SPOR YILDIZ HD
-https://lemonchiffon-dotterel-347603.hostingersite.com/vavoo/proxy.php?id=2750507083
+https://live-cdn-65984.varplaycdn.cfd/trtspor2/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="Türkiye",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -181,7 +181,7 @@ https://tv1.arectv30.sbs/live/t3.m3u8
 https://tv1.arectv30.sbs/live/t4.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/yiaInBw.png" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
+#EXTINF:1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" tvg-name="beIN Sports Haber" group-title="Türkiye",beIN Sports Haber
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1[OFFLINE]
