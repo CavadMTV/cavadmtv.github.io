@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>404 - Sayfa Bulunamadı!</title>
+    <style>
+        /* Genel Sayfa Stilleri */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        /* Animasyonlu Resim */
+        .error-img {
+            width: 200px; /* Resmin boyutu */
+            height: auto;
+            animation: float 3s infinite ease-in-out;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+            100% { transform: translateY(0); }
+        }
+
+        /* Sayfa Bulunamadı Mesajı */
+        .message {
+            font-size: 20px;
+            margin: 20px 0;
+            opacity: 0;
+            animation: fadeIn 2s forwards 1s;
+            color: #b3b3b3;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        /* Ana Sayfaya Dön Butonu */
+        .btn {
+            text-decoration: none;
+            color: #f1faee;
+            font-size: 18px;
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #ff4757;
+            transition: background-color 0.3s, transform 0.3s;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #e84118;
+            transform: scale(1.1);
+        }
+
+    </style>
+</head>
+<body>
+
+    <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="404 Logo" class="error-img">
+    <div class="message">Giriş yapmaya çalıştığınız sayfa şu anda mevcut değil.</div>
+    
+</body>
+</html>
