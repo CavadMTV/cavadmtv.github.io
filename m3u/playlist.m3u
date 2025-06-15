@@ -342,11 +342,11 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" tvg-name="Dream Türk" group-title="Türkiye",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" tvg-name="POWER TV" group-title="Türkiye",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=877" tvg-name="POWER TÜRK" group-title="Türkiye",POWER TÜRK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png" tvg-name="POWER Türk Akustik" group-title="Türkiye",POWER Türk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlists.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://www.volotv.com/media/images/tvlogo/tatlisestv-canlitvkanal-l79b.png" tvg-name="TATLISES TV" group-title="Türkiye",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" tvg-name="NR1" group-title="Türkiye",NR1
