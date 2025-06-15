@@ -127,7 +127,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiye",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/500px-TRT_4K.svg.png" tvg-name="TRT 4K" group-title="Türkiye",TRT 4K
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1842&extension=m3u8
+https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" tvg-name="TRT 2" group-title="Türkiye",TRT2 HD
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
@@ -242,24 +242,26 @@ http://77.90.14.115:8080/107321
 #EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor
-https://tv1.arectv30.sbs/live/tabi.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 1
-https://tv1.arectv30.sbs/live/tabi1.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 2
-https://tv1.arectv30.sbs/live/tabi2.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii2/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 3
-https://tv1.arectv30.sbs/live/tabi3.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii3/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 4
-https://tv1.arectv30.sbs/live/tabi4.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii4/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 5
-https://tv1.arectv30.sbs/live/tabi5.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii5/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 6
-https://tv1.arectv30.sbs/live/tabi6.m3u8
+https://live-cdn-65984.varplaycdn.cfd/tabii6/index.m3u8
+#EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524820.png" group-title="Türkiye",bluTV Play 1
-http://77.90.14.115:8080/102695
+https://cavadmtv.github.io/live/stream.ts
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524562.png" group-title="Türkiye",bluTV Play 2
-http://77.90.14.115:8080/102696
+https://cavadmtv.github.io/live/stream.ts
 
 #EXTINF:1 tvg-id="TRT EBA" tvg-logo="https://gbzottvsc16.tvplus.com.tr:33207/CPS/images/universal/film/logo/202401/20240130/80/0737080201945eb88428_op_0_XL.png" tvg-name="TRT EBA" group-title="Türkiye",TRT EBA
 https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
