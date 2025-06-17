@@ -5,3 +5,4 @@
 - [TR]  ATV Avrupa yayın linki güncellendi
 - [TR*] Yedek Tabii yayınları eklendi
 - [TR*] Mor yayınlar güncellendi
+- [TR*] S Sport+ Eklendi
