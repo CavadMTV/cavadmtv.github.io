@@ -3,3 +3,4 @@
 **🗓 17 Haziran 2025**
 - [AZE] Gunaz TV yayın linki değiştirildi
 - [TR]  ATV Avrupa yayın linki değiştirildi
+- [TR*] Yedek Tabii yayınları eklendi
