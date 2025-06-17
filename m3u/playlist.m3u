@@ -184,28 +184,28 @@ https://tv1.arectv30.sbs/live/t4.m3u8
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CtUorRNqC4s&pp=ygURYmVpbiBzcG9ydHMgaGFiZXI%3D.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1[OFFLINE]
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs1
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 1
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs11
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 2
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs2
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 3
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs3
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-3-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 4
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs4
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="Türkiye",beIN Sports 5
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bs5
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-5-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm1
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest/smart/width/386/height/259?cb=20190319023656" group-title="Türkiye",beIN Sports Max 2
-https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=bm2
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye",beIN Sports 1 FHD
