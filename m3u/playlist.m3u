@@ -163,22 +163,22 @@ https://koprulu4.global.ssl.fastly.net/rectv3.m3u8/?id=ss2
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/s-sport2-768x768.png" group-title="Türkiye",S Sport 2(YEDEK)
 https://test.dreamboxserver.net/ssport2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+2
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+2
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+3
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+3
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+4
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+4
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+5
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+5
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title=”Türkiye”, S Sport+6
+#EXTINF:-1 tvg-logo=”https://cms.vodafone.com.tr/static/img/content/24-03/14/s-sport-plus-2-1710143568.png” group-title="Türkiye", S Sport+6
 https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Türkiye",SporSmart
