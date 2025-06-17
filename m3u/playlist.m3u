@@ -495,135 +495,263 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 
 
-#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",AzTV
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
+
 http://flussonic.izone.az/aztv/index.m3u8
-#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Azad AzÉ™rbaycan HD
+
+#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
+
 http://flussonic.izone.az/azadazerbaycan/index.m3u8
-#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",XÉ™zÉ™r TV HD
+
+#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
+
 http://flussonic.izone.az/xezertv/index.m3u8
-#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",ARB HD
+
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
+
 http://flussonic.izone.az/arb/index.m3u8
-#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Ä°ctimai TV HD
+
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
+
 https://live.itv.az/itv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD" group-title="AzÉ™rbaycan",ARB 24 HD
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
+
 http://185.32.44.154/arb24/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD-2" group-title="AzÉ™rbaycan",ARB 24 HD-2
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
+
 https://stream.atv.az/HLS3/streams/arb24.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="AzÉ™rbaycan",Muz TV
+
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
+
 http://flussonic.izone.az/muztvaz/index.m3u8
-#EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/gOAEQgv.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Space TV
+
+#EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/gOAEQgv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
+
 http://flussonic.izone.az/spacetv/index.m3u8
-#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Real TV HD
+
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
+
 http://flussonic.izone.az/realtv/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Baku TV
+
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Baku TV
+
 http://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",MÆdÆniyyÆt TV
+
+#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Mədəniyyət TV
+
 https://str2.yodacdn.net/meden_300_to_small/index.m3u8
-#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Ä°dman TV
+
+#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
+
 https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",CBC TV
+
+#EXTINF:1 tvg-id="" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-language="Azerbaijani" group-title="Azərbaycan",CBC TV
+
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="AzÉ™rbaycan",CBC Sport
+
+#EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="Azərbaycan",CBC Sport
+
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB GÃ¼nÉ™ÅŸ" group-title="AzÉ™rbaycan",ARB GÃ¼nÉ™ÅŸ
+
+#EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
+
 http://flussonic.izone.az/arbgunesh/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="KÉ™pÉ™z TV" group-title="AzÉ™rbaycan",KÉ™pÉ™z TV
+
+#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
+
 http://85.132.78.122:8050/dashjs/stream/index.mpd
-#EXTINF:1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="AzÉ™rbaycan",Kanal S
+
+#EXTINF:1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
+
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
-#EXTINF:1 tvg-id="APA TV" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",APA TV
+
+#EXTINF:1 tvg-id="APA TV" tvg-language="Azerbaijani" group-title="Azərbaycan",APA TV
+
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:1 tvg-id="" tvg-name="SÉ™hiyyÉ™ TV" group-title="AzÉ™rbaycan",SÉ™hiyyÉ™ TV
+
+#EXTINF:1 tvg-id="" tvg-name="Səhiyyə TV" group-title="Azərbaycan",Səhiyyə TV
+
 http://185.32.44.154/sehiyye/index.m3u8
-#EXTINF:1 tvg-id="DunyaTV.az" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",DÃ¼nya TV
+
+#EXTINF:1 tvg-id="DunyaTV.az" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
+
 http://flussonic.izone.az/dunyatv/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/9/9d/Alvin_Channel_-_logo.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Alvin Channel
+
+#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/9/9d/Alvin_Channel_-_logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
+
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",Live TV
+
+#EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
+
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:1 tvg-id="NaxÃ§Ä±van TV" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",NaxÃ§Ä±van TV
+
+#EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" group-title="Azərbaycan",Naxçıvan TV
+
 https://str.yodacdn.net/ntv/index.m3u8
-#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",SHOW PLUS TV
+
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
+
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:1 tvg-id="GunAz TV" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",GunAz TV
+
+#EXTINF:1 tvg-id="GunAz TV" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
+
 https://2meet.az/live/livestream.m3u8
-#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",TMB AZ TV
+
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
+
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:1 tvg-id="AGRO TV AzÉ™rbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",AGRO TV AzÉ™rbaycan
+
+#EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
+
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
-#EXTINF:1 tvg-id="AYAZ TV" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",AYAZ TV
+
+#EXTINF:1 tvg-id="AYAZ TV" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
+
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:1 tvg-id="ATVCinema.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="AzÉ™rbaycan",ATV CINEMA
+
+#EXTINF:1 tvg-id="ATVCinema.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ATV CINEMA
+
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
-#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="AzÉ™rbaycan",MATCH TV
+
+#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",MATCH TV
+
 http://flussonic.izone.az/matchtv/index.m3u8
-#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="AzÉ™rbaycan",Match Futbol 1
+
+#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",Match Futbol 1
+
 http://flussonic.izone.az/futbol1/index.m3u8
-#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="AzÉ™rbaycan",Match Futbol 2
+
+#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",Match Futbol 2
+
 http://flussonic.izone.az/futbol2/index.m3u8
-#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="AzÉ™rbaycan",Match Futbol 3
+
+#EXTINF:1 tvg-id="Match" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" tvg-name="Match TV" group-title="Azərbaycan",Match Futbol 3
+
 http://flussonic.izone.az/futbol3/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="ğŸ“» RADIO / AZERBAIJAN",Ä°ctimai Radio 90FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="RADIO 》Azerbaijan",İctimai Radio 90FM
+
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",AzÉ™rbaycan Radiosu
+
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Azərbaycan Radiosu
+
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",BeynÉ™lxalq Radio
+
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Beynəlxalq Radio
+
 https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Yurd FM
+
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Yurd FM
+
 https://icecast.livetv.az/yurdfm
-#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Yurd FM (Camera)
+
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Yurd FM (Camera)
+
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
-#EXTINF:1 tvg-logo="http://bakuretrofm.az/wp-content/uploads/2023/03/Baku_retro_fm_2.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Baku Retro FM
+
+#EXTINF:1 tvg-logo="http://bakuretrofm.az/wp-content/uploads/2023/03/Baku_retro_fm_2.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Baku Retro FM
+
 http://5.191.241.101:8000/bakuretrofm
-#EXTINF:1 tvg-logo="http://bakuhitfm.az/wp-content/uploads/2023/03/Baku_hit_fm_2.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Baku Hit FM
+
+#EXTINF:1 tvg-logo="http://bakuhitfm.az/wp-content/uploads/2023/03/Baku_hit_fm_2.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Baku Hit FM
+
 http://5.191.241.101:8000/bakuhitfm
-#EXTINF:1 tvg-logo="https://asanradio.az/photos/341098_1491724822_logo.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",ASAN RADÄ°O
+
+#EXTINF:1 tvg-logo="https://asanradio.az/photos/341098_1491724822_logo.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",ASAN RADİO
+
 http://94.20.74.206:4448/stream1
-#EXTINF:1 tvg-logo="https://islamevi.az/app/storage/2023/06/media-tmb-radio-rfe7hs.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Radio TMB
+
+#EXTINF:1 tvg-logo="https://islamevi.az/app/storage/2023/06/media-tmb-radio-rfe7hs.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Radio TMB
+
 https://s39.myradiostream.com/5458/listen.mp3
-#EXTINF:1 tvg-logo="https://enerjifm.az/templates/default/images/logo.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Radio Enerji
+
+#EXTINF:1 tvg-logo="https://enerjifm.az/templates/default/images/logo.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Radio Enerji
+
 https://icecast.livetv.az/antennfm
-#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639143011_xezer-fm-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",XÉ™zÉ™r FM
+
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639143011_xezer-fm-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Xəzər FM
+
 https://s40.myradiostream.com/:22546/listen.mp3
-#EXTINF:1 tvg-logo="https://www.arazfm.az/assets/araz_logo@300x.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Araz FM
+
+#EXTINF:1 tvg-logo="https://www.arazfm.az/assets/araz_logo@300x.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Araz FM
+
 http://s14.myradiostream.com:30454/listen.mp3
-#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639508754_space-radio-azerbaijan-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Space Radio
+
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639508754_space-radio-azerbaijan-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Space Radio
+
 http://5.191.241.101:8000/spaceradio
-#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",MEDÄ°A FM
+
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",MEDİA FM
+
 https://icecast.livetv.az/mediafm
-#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",MEDÄ°A FM (Camera)
+
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",MEDİA FM (Camera)
+
 https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
-#EXTINF:1 tvg-logo="https://avtofm.az/assets/images/logo_image.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Avto FM
+
+#EXTINF:1 tvg-logo="https://avtofm.az/assets/images/logo_image.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Avto FM
+
 http://5.191.241.101:8000/avtofm
-#EXTINF:1 tvg-logo="https://anspress.com//anschm-bl.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",ANS Ã‡M Radio
+
+#EXTINF:1 tvg-logo="https://anspress.com//anschm-bl.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",ANS ÇM Radio
+
 https://live.ansradio.ws:8443/mp3_128
-#EXTINF:1 tvg-logo="https://radio.ntv.az/images/logo.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",NaxÃ§Ä±van Radiosu
+
+#EXTINF:1 tvg-logo="https://radio.ntv.az/images/logo.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Naxçıvan Radiosu
+
 http://s33.myradiostream.com:12782/;stream.nsv
-#EXTINF:1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/big(735px).png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Radio VÉ™tÉ™n
+
+#EXTINF:1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/big(735px).png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Radio Vətən
+
 https://stream.zenolive.com/0kgkkzanmueuv
-#EXTINF:1 tvg-logo="https://lh6.googleusercontent.com/proxy/-Er9aMecZFXbKxGJG2TkHCy2G6W6aoqGEc-rwwpb5cehQuCPTgxEkLRg2kCAmMXfejjmATo7L6I" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",KÉ™pÉ™z FM
+
+#EXTINF:1 tvg-logo="https://lh6.googleusercontent.com/proxy/-Er9aMecZFXbKxGJG2TkHCy2G6W6aoqGEc-rwwpb5cehQuCPTgxEkLRg2kCAmMXfejjmATo7L6I" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Kəpəz FM
+
 http://85.132.78.122:3344/now
-#EXTINF:1 tvg-logo="https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",AutoLife FM
+
+#EXTINF:1 tvg-logo="https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",AutoLife FM
+
 https://radio.autoliferadio.com:8005/radio
-#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",VIVA FM AzÉ™rbaycan
+
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",VIVA FM Azərbaycan
+
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
-#EXTINF:1 tvg-logo="https://www.day.az/assets/images/logo.svg" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Day.Az Radio
+
+#EXTINF:1 tvg-logo="https://www.day.az/assets/images/logo.svg" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Day.Az Radio
+
 https://radio.day.az:9443/128m
-#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2022-06/dance-fm.webp" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",DANCE FM
+
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2022-06/dance-fm.webp" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",DANCE FM
+
 http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
-#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Baku Jukebox
+
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Baku Jukebox
+
 http://78.109.52.73:8000/bkjbox
-#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",AÄŸdam Radio
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Ağdam Radio
+
 https://a2.asurahosting.com:6650/radio.mp3
-#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",106 FM
+
+#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",106 FM
+
 https://radiosolo.ru/radio/106fm/icecast.audio
-#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",106 FM (Camera)
+
+#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",106 FM (Camera)
+
 https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
-#EXTINF:1 tvg-logo="https://106-3fm.az/assets/images/106-3-white.png?v=3" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",106.3 FM (Camera)
+
+#EXTINF:1 tvg-logo="https://106-3fm.az/assets/images/106-3-white.png?v=3" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",106.3 FM (Camera)
+
 https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
-#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/85489.v4.png" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",Business Radio BOSS
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/85489.v4.png" tvg-copyright="@aligoshgartv" group-title="RADIO 》Azerbaijan",Business Radio BOSS
+
 https://listen5.myradio24.com/bosscomaz
-#EXTINF:1 tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" tvg-copyright="@aligoshgartv" group-title="ğŸ“» RADIO / AZERBAIJAN",SaÄŸlam Radio
+
+#EXTINF:1 tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" tvg-copyright="@aligoshgartv" group-title="RADIO 》AZERBAIJAN",Sağlam Radio
+
 https://s24.myradiostream.com/:17446/listen.mp3
