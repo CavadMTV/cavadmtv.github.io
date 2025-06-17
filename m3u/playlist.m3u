@@ -258,6 +258,34 @@ https://live-cdn-65984.varplaycdn.cfd/tabii6/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzeottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/1/1036095058995eb88428_op_0_XL.png" group-title="Türkiye",tabii spor 7
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 1 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 2 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 3 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 4 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 5 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 6 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Türkiye", Tabii Spor 7 (proxy)
+http://live.artofknot.com:5080/proxy/channel?url=https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524820.png" group-title="Türkiye",bluTV Play 1
 https://cavadmtv.github.io/live/stream.ts
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240911524562.png" group-title="Türkiye",bluTV Play 2
