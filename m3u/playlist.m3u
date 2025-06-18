@@ -4,13 +4,13 @@ tvg-copyright=@cavad_m44
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" group-title="Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1" group-title="Ulusal",TRT 1 HD-2
-http://flussonic.izone.az/trt1/index.m3u8
+http://live.artofknot.com:5080/proxy/channel?url=https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Ulusal",ATV HD
 https://mfe01.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Ulusal",ATV HD-2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-name="ATV Avrupa" group-title="Ulusal",ATV AVRUPA
-https://cdn7.canlitv.me/atvavrupa.m3u8?tkn=5tqDe8GUB9gC2QFWNb-QoQ&tms=1750161423&hst=www.canlitv.me&ip=212.47.136.65
+https://cavadmtv.github.io/live/stream.ts
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8" group-title="Ulusal",TV 8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" tvg-name="TV 8 INT" group-title="Ulusal",TV 8 INT
@@ -83,7 +83,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Spor",TRT Spor
-http://flussonic.izone.az/trtspor/index.m3u8
+https://live-cdn-65984.varplaycdn.cfd/trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Spor",TRT 3 SPOR
 http://flussonic.izone.az/trt3spor/index.m3u8
 #EXTINF:1 tvg-id="TRT Spor YÄ±ldÄ±z" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" tvg-language="Turkish" group-title="Spor",TRT SPOR YILDIZ HD
@@ -93,7 +93,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="Spor",HT-SPOR TV
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" tvg-name="FenerbahÃ§e TV" group-title="Spor",Fenerbahçe TV
-http://flussonic.izone.az/fb/index.m3u8
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="Spor",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" tvg-name="Sports TV" group-title="Spor",Sports TV
@@ -105,9 +105,9 @@ https://tv1.arectv30.sbs/live/smart1.m3u8
 https://tv1.arectv30.sbs/live/smart2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/eurosport-1-new.png" group-title="Spor",Eurosport 1 HD
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+https://tv1.arectv30.sbs/live/euro1.m3u8
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/eurosport-2-new.png" group-title="Spor",Eurosport 2 HD
-https://live.arectv11.sbs/static/euro2.m3u8
+https://tv1.arectv30.sbs/live/euro2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tjk_tv_logo.png" group-title="Spor",TJK TV
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=g89RQMJtK6E.m3u8
@@ -127,7 +127,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" group-title="Çocuk",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="Çocuk",Cartoonito
-http://77.90.14.115:8080/107321
+https://winter-mouse-9f29.pantonum1.workers.dev/178755989/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/8AmNMJE.png" tvg-name="TRT WORLD" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
