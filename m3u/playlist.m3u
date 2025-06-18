@@ -497,19 +497,19 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 
-http://flussonic.izone.az/aztv/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
 
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 
-http://flussonic.izone.az/azadazerbaycan/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/atv-azad.m3u8
 
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 
-http://flussonic.izone.az/xezertv/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
 
-http://flussonic.izone.az/arb/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
 
@@ -521,19 +521,19 @@ http://185.32.44.154/arb24/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
 
-https://stream.atv.az/HLS3/streams/arb24.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-24.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
 
-http://flussonic.izone.az/muztvaz/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
 
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/gOAEQgv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 
-http://flussonic.izone.az/spacetv/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/space-tv.m3u8
 
 #EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
 
-http://flussonic.izone.az/realtv/index.m3u8
+https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/real-tv.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Baku TV
 
