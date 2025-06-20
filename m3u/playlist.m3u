@@ -128,6 +128,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="Çocuk",Cartoonito
 https://winter-mouse-9f29.pantonum1.workers.dev/178755989/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Çocuk", Spacetoon Türkiye
+http://live.artofknot.com:5080/proxy/channel?url=https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDk6Mzg6NDUgQU0maGFzaF92YWx1ZT1oZEc4OVVoaXFBeXlwZE5JUjlGUW93PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/8AmNMJE.png" tvg-name="TRT WORLD" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
