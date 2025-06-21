@@ -32,12 +32,12 @@ jobs:
           pip install -U setuptools wheel Kekik httpx parsel requests
 
       - name: API'den M3U Listesini Al
-        run: python Pythonlar/kablo.py  
+        run: python m3u/kablo.py  
 
       - name: M3U Güncellemelerini Yap
         run: |
           
-          python Pythonlar/vettel.py
+          python m3u/cmpython.py
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
