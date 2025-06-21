@@ -497,6 +497,304 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 
 
+#EXTINF:-1 tvg-id="24_KITCHEN_6_" tvg-name="24 KITCHEN (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",24 KITCHEN (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3295699287/index.m3u8
+#EXTINF:-1 tvg-id="24_KITCHEN_7_" tvg-name="24 KITCHEN (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",24 KITCHEN (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3329504843/index.m3u8
+#EXTINF:-1 tvg-id="24_KITCHEN_HD_1_" tvg-name="24 KITCHEN HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",24 KITCHEN HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/4285350247/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_BABYTV_1_" tvg-name="4K TR: BABYTV (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: BABYTV (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1758313456/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_BOOMERANG_1_" tvg-name="4K TR: BOOMERANG (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: BOOMERANG (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3510107618/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_CARTOON_NETWORK_1_" tvg-name="4K TR: CARTOON NETWORK (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: CARTOON NETWORK (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3278185898/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_DA_VINCII_1_" tvg-name="4K TR: DA VINCII (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: DA VINCII (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/410345406/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_DISCOVERY_CHANNEL_HD_1_" tvg-name="4K TR: DISCOVERY CHANNEL HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: DISCOVERY CHANNEL HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/4017734592/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_DISNEY_JUNIOR_1_" tvg-name="4K TR: DISNEY JUNIOR (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: DISNEY JUNIOR (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/649228722/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_DUCK_TV_HD_1_" tvg-name="4K TR: DUCK TV HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: DUCK TV HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1709129189/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_ENGLISH_CLUB_TV_1_" tvg-name="4K TR: ENGLISH CLUB TV (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: ENGLISH CLUB TV (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/925055356/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_EPIC_DRAMA_1_" tvg-name="4K TR: EPIC DRAMA (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: EPIC DRAMA (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/678261693/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_EXXEN_TV_1_" tvg-name="4K TR: EXXEN TV (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: EXXEN TV (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/194469526/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_HABER_GLOBAL_HD_1_" tvg-name="4K TR: HABER GLOBAL HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: HABER GLOBAL HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1196626387/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_LOVE_NATURE_HD_1_" tvg-name="4K TR: LOVE NATURE HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: LOVE NATURE HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3578706863/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_NATIONAL_GEOGRAPHIC_HD_1_" tvg-name="4K TR: NATIONAL GEOGRAPHIC HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: NATIONAL GEOGRAPHIC HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1078355325/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_NATIONAL_GEOGRAPHIC_WILD_HD_1_" tvg-name="4K TR: NATIONAL GEOGRAPHIC WILD HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: NATIONAL GEOGRAPHIC WILD HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/132416616/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_NBA_TV_HD_1_" tvg-name="4K TR: NBA TV HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: NBA TV HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/545548133/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_NICKTOONS_1_" tvg-name="4K TR: NICKTOONS (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: NICKTOONS (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/988691374/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_1002_HD_1_" tvg-name="4K TR: SİNEMA 1002 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA 1002 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1076643856/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_AILE_2_HD_1_" tvg-name="4K TR: SİNEMA AİLE 2 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA AİLE 2 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3000594763/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_AILE_HD_1_" tvg-name="4K TR: SİNEMA AİLE HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA AİLE HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/698495811/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_AKSIYON_2_HD_1_" tvg-name="4K TR: SİNEMA AKSİYON 2 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA AKSİYON 2 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3440711580/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_KOMEDI_HD_1_" tvg-name="4K TR: SİNEMA KOMEDİ HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA KOMEDİ HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/440774949/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_TV_1001_HD_1_" tvg-name="4K TR: SİNEMA TV 1001 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA TV 1001 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2761385166/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_TV_2_HD_1_" tvg-name="4K TR: SİNEMA TV 2 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA TV 2 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/295060524/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_TV_AKSIYON_HD_1_" tvg-name="4K TR: SİNEMA TV AKSİYON HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA TV AKSİYON HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2246993811/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_TV_HD_1_" tvg-name="4K TR: SİNEMA TV HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA TV HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2780830033/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_YERLI_2_HD_1_" tvg-name="4K TR: SİNEMA YERLİ 2 HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA YERLİ 2 HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3971603427/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_SINEMA_YERLI_HD_1_" tvg-name="4K TR: SİNEMA YERLİ HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: SİNEMA YERLİ HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1897159473/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_VIASAT_EXPLORE_1_" tvg-name="4K TR: VIASAT EXPLORE (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: VIASAT EXPLORE (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1451950581/index.m3u8
+#EXTINF:-1 tvg-id="4K_TR_VIASAT_HISTORY_HD_1_" tvg-name="4K TR: VIASAT HISTORY HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",4K TR: VIASAT HISTORY HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1335130209/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL_PLANET_7_" tvg-name="ANIMAL PLANET (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",ANIMAL PLANET (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2110161355/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL_PLANET_HD_1_" tvg-name="ANIMAL PLANET HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",ANIMAL PLANET HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3913298991/index.m3u8
+#EXTINF:-1 tvg-id="BABY_TV_6_" tvg-name="BABY TV (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BABY TV (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3820420855/index.m3u8
+#EXTINF:-1 tvg-id="BABY_TV_7_" tvg-name="BABY TV (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BABY TV (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/4184865290/index.m3u8
+#EXTINF:-1 tvg-id="BABY_TV_HD_1_" tvg-name="BABY TV HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BABY TV HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2751658995/index.m3u8
+#EXTINF:-1 tvg-id="BBC_CBEEBIES_TV_7_" tvg-name="BBC CBEEBIES TV (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BBC CBEEBIES TV (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/58015509/index.m3u8
+#EXTINF:-1 tvg-id="BBC_EARTH_6_" tvg-name="BBC EARTH (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BBC EARTH (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2618455562/index.m3u8
+#EXTINF:-1 tvg-id="BBC_EARTH_7_" tvg-name="BBC EARTH (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BBC EARTH (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2613731614/index.m3u8
+#EXTINF:-1 tvg-id="BBC_EARTH_HD_1_" tvg-name="BBC EARTH HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BBC EARTH HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2228496856/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_GURME_6_" tvg-name="BEIN GURME (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN GURME (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3617035414/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_GURME_7_" tvg-name="BEIN GURME (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN GURME (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3583230858/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_GURME_HD_1_" tvg-name="BEIN GURME HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN GURME HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/950394656/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_IZ_6_" tvg-name="BEIN IZ (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN IZ (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1691223078/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_IZ_TV_7_" tvg-name="BEIN IZ TV (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN IZ TV (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3156178359/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_ACTION_6_" tvg-name="BEIN MOVIES ACTION (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES ACTION (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1873478131/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_ACTION_7_" tvg-name="BEIN MOVIES ACTION (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES ACTION (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3041245607/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_ACTION_2_6_" tvg-name="BEIN MOVIES ACTION 2 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES ACTION 2 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2617318386/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_ACTION_2_7_" tvg-name="BEIN MOVIES ACTION 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES ACTION 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/650851542/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_FAMILY_6_" tvg-name="BEIN MOVIES FAMILY (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES FAMILY (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2485199152/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_FAMILY_7_" tvg-name="BEIN MOVIES FAMILY (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES FAMILY (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1322228068/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_PREMIERE_6_" tvg-name="BEIN MOVIES PREMIERE (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES PREMIERE (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/942987224/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_PREMIERE_7_" tvg-name="BEIN MOVIES PREMIERE (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES PREMIERE (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2197747964/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_PREMIERE_2_6_" tvg-name="BEIN MOVIES PREMIERE 2 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES PREMIERE 2 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2244069093/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_PREMIERE_2_7_" tvg-name="BEIN MOVIES PREMIERE 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES PREMIERE 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2120218356/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_STARS_6_" tvg-name="BEIN MOVIES STARS (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES STARS (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2500913164/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_STARS_7_" tvg-name="BEIN MOVIES STARS (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES STARS (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1963748784/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_TURK_6_" tvg-name="BEIN MOVIES TURK (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES TURK (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3390575948/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_MOVIES_TURK_7_" tvg-name="BEIN MOVIES TURK (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN MOVIES TURK (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1835579025/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_1_6_" tvg-name="BEIN SERIES 1 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES 1 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2190922298/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_2_6_" tvg-name="BEIN SERIES 2 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES 2 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3308693738/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_3_6_" tvg-name="BEIN SERIES 3 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES 3 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/4166418778/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_4_6_" tvg-name="BEIN SERIES 4 (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES 4 (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1249271114/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_COMEDY_6_" tvg-name="BEIN SERIES COMEDY (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES COMEDY (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3112396635/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_COMEDY_7_" tvg-name="BEIN SERIES COMEDY (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES COMEDY (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1668144911/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_DRAMA_6_" tvg-name="BEIN SERIES DRAMA (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES DRAMA (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3413672103/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_DRAMA_7_" tvg-name="BEIN SERIES DRAMA (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES DRAMA (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/727975195/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_SCI_FI_7_" tvg-name="BEIN SERIES SCI-FI (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES SCI-FI (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3016529666/index.m3u8
+#EXTINF:-1 tvg-id="BEIN_SERIES_VICE_7_" tvg-name="BEIN SERIES VICE (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BEIN SERIES VICE (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1125523262/index.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG_7_" tvg-name="BOOMERANG (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BOOMERANG (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2943974208/index.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG_HD_1_" tvg-name="BOOMERANG HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",BOOMERANG HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/11743931/index.m3u8
+#EXTINF:-1 tvg-id="CARTOONITO_6_" tvg-name="CARTOONITO (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",CARTOONITO (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/178755989/index.m3u8
+#EXTINF:-1 tvg-id="CBEEBIES_6_" tvg-name="CBEEBIES (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",CBEEBIES (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2823044667/index.m3u8
+#EXTINF:-1 tvg-id="CBEEBIES_HD_1_" tvg-name="CBEEBIES HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",CBEEBIES HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2672851185/index.m3u8
+#EXTINF:-1 tvg-id="CCOCUK_SMART_6_" tvg-name="ÇÇOÇUK SMART (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",ÇÇOÇUK SMART (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1884291733/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_CHANNEL_7_" tvg-name="DISCOVERY CHANNEL (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY CHANNEL (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3079995901/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_CHANNEL_HD_1_" tvg-name="DISCOVERY CHANNEL HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY CHANNEL HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/695705778/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_ID_1_" tvg-name="DISCOVERY ID (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY ID (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2095404060/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_ID_7_" tvg-name="DISCOVERY ID (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY ID (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/972730032/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_IDX_HD_1_" tvg-name="DISCOVERY IDX HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY IDX HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/970098662/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_SCIENCE_6_" tvg-name="DISCOVERY SCIENCE (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY SCIENCE (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1013220447/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_SCIENCE_7_" tvg-name="DISCOVERY SCIENCE (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY SCIENCE (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3698852323/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_SCIENCE_HD_1_" tvg-name="DISCOVERY SCIENCE HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISCOVERY SCIENCE HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2818684271/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY_JR_7_" tvg-name="DISNEY JR (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISNEY JR (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3963678097/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY_JR_HD_1_" tvg-name="DISNEY JR HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISNEY JR HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/4108765291/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY_JR_HD_1_" tvg-name="DISNEY JR HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DISNEY JR HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1772892321/index.m3u8
+#EXTINF:-1 tvg-id="DIZI_SMART_MAX_7_" tvg-name="DIZI SMART MAX (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DIZI SMART MAX (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/4079530614/index.m3u8
+#EXTINF:-1 tvg-id="DIZI_SMART_PREMIUM_7_" tvg-name="DIZI SMART PREMIUM (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DIZI SMART PREMIUM (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/791616758/index.m3u8
+#EXTINF:-1 tvg-id="DIZISMART_MAX_6_" tvg-name="DIZISMART MAX (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DIZISMART MAX (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1165201807/index.m3u8
+#EXTINF:-1 tvg-id="DIZISMART_PREMIUM_6_" tvg-name="DIZISMART PREMIUM (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DIZISMART PREMIUM (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1195429280/index.m3u8
+#EXTINF:-1 tvg-id="DOCUBOX_6_" tvg-name="DOCUBOX (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DOCUBOX (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2669024510/index.m3u8
+#EXTINF:-1 tvg-id="DOCUBOX_HD_1_" tvg-name="DOCUBOX HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DOCUBOX HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3650386062/index.m3u8
+#EXTINF:-1 tvg-id="DREAM_TV_1_" tvg-name="DREAM TV (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",DREAM TV (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1383473435/index.m3u8
+#EXTINF:-1 tvg-id="EXXEN_TV_6_" tvg-name="EXXEN TV (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",EXXEN TV (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2426097659/index.m3u8
+#EXTINF:-1 tvg-id="FX_6_" tvg-name="FX (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",FX (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3821433649/index.m3u8
+#EXTINF:-1 tvg-id="FX_7_" tvg-name="FX (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",FX (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2851147991/index.m3u8
+#EXTINF:-1 tvg-id="HALK_TV_6_" tvg-name="HALK TV (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",HALK TV (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/4148513719/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY_6_" tvg-name="HISTORY (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",HISTORY (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/461893028/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY_CHANNEL_7_" tvg-name="HISTORY CHANNEL (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",HISTORY CHANNEL (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2415331568/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY_HD_1_" tvg-name="HISTORY HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",HISTORY HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/4207487562/index.m3u8
+#EXTINF:-1 tvg-id="LOVE_NATURE_6_" tvg-name="LOVE NATURE (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",LOVE NATURE (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2593800839/index.m3u8
+#EXTINF:-1 tvg-id="LOVE_NATURE_7_" tvg-name="LOVE NATURE (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",LOVE NATURE (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2520793577/index.m3u8
+#EXTINF:-1 tvg-id="LOVE_NATURE_HD_1_" tvg-name="LOVE NATURE HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",LOVE NATURE HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3309481234/index.m3u8
+#EXTINF:-1 tvg-id="LOVE_NATURE_HD_1_" tvg-name="LOVE NATURE HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",LOVE NATURE HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1078222172/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_ACTION_7_" tvg-name="MOVIE SMART ACTION (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART ACTION (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1237460948/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_CLASSIC_7_" tvg-name="MOVIE SMART CLASSIC (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART CLASSIC (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3597292408/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_PLATIN_2_7_" tvg-name="MOVIE SMART PLATIN 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART PLATIN 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1800204159/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_PREMIUM_7_" tvg-name="MOVIE SMART PREMIUM (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART PREMIUM (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3830353405/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_PREMIUM_2_7_" tvg-name="MOVIE SMART PREMIUM 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART PREMIUM 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1194009782/index.m3u8
+#EXTINF:-1 tvg-id="MOVIE_SMART_TURK_7_" tvg-name="MOVIE SMART TURK (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIE SMART TURK (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/353384054/index.m3u8
+#EXTINF:-1 tvg-id="MOVIEMAX_TURK_7_" tvg-name="MOVIEMAX TURK (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIEMAX TURK (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2178364300/index.m3u8
+#EXTINF:-1 tvg-id="MOVIESMART_CLASSIC_6_" tvg-name="MOVIESMART CLASSIC (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIESMART CLASSIC (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1337239933/index.m3u8
+#EXTINF:-1 tvg-id="MOVIESMART_PREMIUM_6_" tvg-name="MOVIESMART PREMIUM (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIESMART PREMIUM (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/2106619896/index.m3u8
+#EXTINF:-1 tvg-id="MOVIESMART_TURK_6_" tvg-name="MOVIESMART TURK (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",MOVIESMART TURK (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3719397522/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_6_" tvg-name="NAT GEO (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1845660630/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_7_" tvg-name="NAT GEO (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1960546091/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_6_" tvg-name="NAT GEO WILD (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO WILD (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3320654968/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_7_" tvg-name="NAT GEO WILD (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO WILD (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1999823186/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_HD_1_" tvg-name="NAT GEO WILD HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO WILD HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1519237116/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_HD_1_" tvg-name="NAT GEO WILD HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NAT GEO WILD HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/124345657/index.m3u8
+#EXTINF:-1 tvg-id="NATIONAL_GEOGRAPHIC_HD_1_" tvg-name="NATIONAL GEOGRAPHIC HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NATIONAL GEOGRAPHIC HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1514492628/index.m3u8
+#EXTINF:-1 tvg-id="NBA_TV_7_" tvg-name="NBA TV (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NBA TV (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/2430655089/index.m3u8
+#EXTINF:-1 tvg-id="NBA_TV_FHD_1_" tvg-name="NBA TV FHD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NBA TV FHD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/2462143546/index.m3u8
+#EXTINF:-1 tvg-id="NBA_TV_HD_1_" tvg-name="NBA TV HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NBA TV HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3513867536/index.m3u8
+#EXTINF:-1 tvg-id="NICK_JR_7_" tvg-name="NICK JR (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICK JR (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/85708551/index.m3u8
+#EXTINF:-1 tvg-id="NICK_JR_HD_HD_1_" tvg-name="NICK JR HD HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICK JR HD HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/707163099/index.m3u8
+#EXTINF:-1 tvg-id="NICK_JUNIOR_6_" tvg-name="NICK JUNIOR (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICK JUNIOR (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1384991998/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON_6_" tvg-name="NICKELODEON (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICKELODEON (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/3029254675/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON_7_" tvg-name="NICKELODEON (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICKELODEON (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3092562301/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON_HD_1_" tvg-name="NICKELODEON HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",NICKELODEON HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/503443750/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_1001_7_" tvg-name="SINEMA 1001 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA 1001 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3117683628/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_1002_7_" tvg-name="SINEMA 1002 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA 1002 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/4269042044/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_AILE_1_7_" tvg-name="SINEMA AILE 1 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA AILE 1 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/4245508443/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_AILE_2_7_" tvg-name="SINEMA AILE 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA AILE 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/3131911051/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_AKSIYON_1_7_" tvg-name="SINEMA AKSIYON 1 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA AKSIYON 1 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1293127897/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_AKSIYON_2_7_" tvg-name="SINEMA AKSIYON 2 (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA AKSIYON 2 (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/179563017/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_KOMEDI_7_" tvg-name="SINEMA KOMEDİ (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA KOMEDİ (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/257449668/index.m3u8
+#EXTINF:-1 tvg-id="SINEMA_TV_7_" tvg-name="SINEMA TV (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SINEMA TV (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1617719941/index.m3u8
+#EXTINF:-1 tvg-id="SMART_CCOCUK_7_" tvg-name="SMART CÇOÇUK (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SMART CÇOÇUK (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/4277750275/index.m3u8
+#EXTINF:-1 tvg-id="SMART_CCOCUK_HD_1_" tvg-name="SMART CÇOÇUK HD (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",SMART CÇOÇUK HD (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/813574895/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_EXPLORE_1_" tvg-name="VIASAT EXPLORE (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT EXPLORE (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1183258440/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_EXPLORE_6_" tvg-name="VIASAT EXPLORE (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT EXPLORE (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1098241076/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_EXPLORE_7_" tvg-name="VIASAT EXPLORE (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT EXPLORE (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1785479914/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_HISTORY_6_" tvg-name="VIASAT HISTORY (6)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT HISTORY (6)
+https://winter-mouse-9f29.pantonum1.workers.dev/1900945213/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_HISTORY_7_" tvg-name="VIASAT HISTORY (7)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT HISTORY (7)
+https://winter-mouse-9f29.pantonum1.workers.dev/1515686371/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_HISTORY_HD_1_" tvg-name="VIASAT HISTORY HD+ (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT HISTORY HD+ (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/3480468962/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT_HISTORY_HEVC_1_" tvg-name="VIASAT HISTORY HEVC (1)" tvg-country="Türkiye" tvg-language="Türkçe" group-title="Vavoo",VIASAT HISTORY HEVC (1)
+https://winter-mouse-9f29.pantonum1.workers.dev/1165670263/index.m3u8
+
+
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 
 https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
