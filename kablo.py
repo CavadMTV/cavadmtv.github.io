@@ -106,4 +106,4 @@ def get_canli_tv_m3u(proxy_url):
 
 if __name__ == "__main__":
     PROXY_URL = "http://live.artofknot.com:5080/proxy/channel?url="  
-    get_canli_tv_m3u(proxy_url)
+    get_canli_tv_m3u(PROXY_URL)
