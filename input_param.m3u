@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Kanal1" tvg-name="Kanal 1",Kanal 1
-http://cdn.zerocdn.com/cdn.m3u8
-#EXTINF:-1 tvg-id="Kanal2" tvg-name="Kanal 2",Kanal 2
-http://anothercdn.com/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NonM3U8" tvg-name="Video",Non M3U8 Link
-http://somevideo.com/video.mp4
-#EXTINF:-1 tvg-id="AlreadyProxied" tvg-name="Already Proxied",Proxied Channel
-http://live.artofknot.com:5080/proxy/channel?url=http://oldcdn.com/old.m3u8
