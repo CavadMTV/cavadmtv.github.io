@@ -34,7 +34,8 @@ jobs:
       - name: API'den M3U Listesini Al
         run: python kablo.py  
 
-    
+      - name: Proxy ekle
+        run: python proxy.py
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
