@@ -14,7 +14,7 @@ def add_proxy_to_url(url, proxy_base_url):
     Returns:
         str: Proxy eklenmiş yeni URL.
     """
-    # Proxy URL'sinin sonunda 'url=' olup olmadığını kontrol et
+    
     if not proxy_base_url.endswith('url='):
         if proxy_base_url.endswith('?'):
             proxy_base_url += 'url='
@@ -106,4 +106,4 @@ def get_canli_tv_m3u(proxy_url):
 
 if __name__ == "__main__":
     PROXY_URL = "http://live.artofknot.com:5080/proxy/channel?url="  # Proxy URL'nizi buraya tanımlayın
-    get_canli_tv_m3u(PROXY_URL)
+    get_canli_tv_m3u
