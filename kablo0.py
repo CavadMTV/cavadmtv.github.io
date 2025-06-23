@@ -2,36 +2,10 @@ import requests
 import json
 import gzip
 from io import BytesIO
+import re # <-- Bu satırı ekliyoruz
 
-def add_proxy_to_url(url, proxy_base_url):
-    """
-    Bir URL'ye proxy adresini ekler.
-    
-    Args:
-        url (str): Proxy'siz orijinal URL.
-        proxy_base_url (str): Proxy adresinin temel URL'si (örneğin, "http://proxy.com/proxy?url=").
-    
-    Returns:
-        str: Proxy eklenmiş yeni URL.
-    """
-    
-    if not proxy_base_url.endswith('url='):
-        if proxy_base_url.endswith('?'):
-            proxy_base_url += 'url='
-        else:
-            proxy_base_url += '?url='
-    return f"{proxy_base_url}{url}"
-
-def get_canli_tv_m3u(proxy_url):
-    """
-    CanliTV API'sinden M3U listesini alır ve proxy adresini ekler.
-    
-    Args:
-        proxy_url (str): Kullanılacak proxy adresinin temel URL'si.
-    
-    Returns:
-        bool: İşlem başarılıysa True, aksi takdirde False.
-    """
+def get_canli_tv_m3u():
+    """"""
     
     url = "https://core-api.kablowebtv.com/api/channels"
     headers = {
@@ -41,7 +15,7 @@ def get_canli_tv_m3u(proxy_url):
         "Cache-Control": "max-age=0",
         "Connection": "keep-alive",
         "Accept-Encoding": "gzip",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnYiOiJMSVZFIiwiaXBiIjoiMCIsImNnZCI6IjA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSIsImNzaCI6IlRSS1NUIiwiZGN0IjoiM0VGNzUiLCJkaSI6ImE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiIsInNnZCI6Ijg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCIsInNwZ2QiOiIxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgiLCJpYyI6IjAiLCJpZG0iOiIwIiwiaWEiOiI6OmZmZmY6MTAuMC4wLjIwNiIsImFwdiI6IjEuMC4wIiwiYWJuIjoiMTAwMCIsIm5iZiI6MTc0NTE1MjgyNSwiZXhwIjoxNzQ1MTUyODg1LCJpYXQiOjE3NDUxNTI4MjV9.OSlafRMxef4EjHG5t6TqfAQC7y05IiQjwwgf6yMUS9E"  # Güvenlik için normalde token burada gösterilmemeli
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnYiOiJMSVZFIiwiaXBiIjoiMCIsImNnZCI6IjA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSIsImNzaCI6IlRSS1NUIiwiZGN0IjoiM0VGNzUiLCJkaSI6ImE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiIsInNnZCI6Ijg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCIsInNwZ2QiOiIxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgiLCJpY2giOiIwIiwiaWRtIjoiMCIsImlhIjoiOjpmZmZmOjEwLjAuMC4yMDYiLCJhcHYiOiIxLjAuMCIsImFibiI6IjEwMDAiLCJuYmYiOjE3NDUxNTI4MjUsImV4cCI6MTc0NTE1Mjg4NSwiaWF0IjoxNzQ1MTUyODI1fQ.OSlafRMxef4EjHG5t6TqfAQC7y05IiQjwwgf6yMUS9E" # Güvenlik için normalde token burada gösterilmemeli
     }
     
     try:
@@ -87,23 +61,58 @@ def get_canli_tv_m3u(proxy_url):
                     continue
 
                 tvg_id = str(kanal_index)
-                
-                # Proxy adresini URL'ye ekle
-                proxied_hls_url = add_proxy_to_url(hls_url, proxy_url)
 
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}\n')
-                f.write(f'{proxied_hls_url}\n')
+                f.write(f'{hls_url}\n')
 
                 kanal_sayisi += 1
                 kanal_index += 1  
-            
-            print(f"📺 kablo1.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
-            return True
-            
+        
+        print(f"📺 kablo1.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
+
+        # --- YENİ EKLENECEK KOD BURADAN BAŞLIYOR ---
+        m3u_baglantilarini_guncelle("kablo1.m3u")
+        # --- YENİ EKLENECEK KOD BURADA BİTİYOR ---
+        
+        return True
+        
     except Exception as e:
         print(f"❌ Hata: {e}")
         return False
 
+# --- YENİ EKLENECEK KOD BURADAN BAŞLIYOR ---
+def m3u_baglantilarini_guncelle(dosya_yolu="kablo1.m3u"):
+    """
+    kablo1.m3u dosyasını okur, .m3u8 bağlantılarının başına proxy URL'sini ekler
+    ve güncellenmiş içeriği dosyaya geri yazar.
+    """
+    proxy_oneki = "http://live.artofknot.com:5080/proxy/channel?url="
+    guncellenmis_satirlar = []
+
+    try:
+        with open(dosya_yolu, 'r', encoding='utf-8') as f:
+            for satir in f:
+                # Satırda bir .m3u8 bağlantısı olup olmadığını kontrol edin
+                # ve henüz proxy önekiyle başlamadığından emin olun
+                if ".m3u8" in satir and not satir.strip().startswith(proxy_oneki):
+                    # URL'yi bulmak ve proxy'yi başına eklemek için regex kullanın
+                    eslesme = re.search(r'(https?://[^\s]+\.m3u8[^\s]*)', satir)
+                    if eslesme:
+                        orijinal_url = eslesme.group(1)
+                        # Orijinal URL'yi proxyli URL ile değiştirin
+                        satir = satir.replace(orijinal_url, proxy_oneki + orijinal_url)
+                guncellenmis_satirlar.append(satir)
+
+        with open(dosya_yolu, 'w', encoding='utf-8') as f:
+            f.writelines(guncellenmis_satirlar)
+
+        print(f"🔗 {dosya_yolu} içindeki .m3u8 bağlantıları proxy önekiyle güncellendi.")
+
+    except FileNotFoundError:
+        print(f"❗ Hata: {dosya_yolu} bulunamadı, bağlantılar güncellenemedi.")
+    except Exception as e:
+        print(f"⁉️ Bağlantıları güncellerken bir hata oluştu: {e}")
+# --- YENİ EKLENECEK KOD BURADA BİTİYOR ---
+
 if __name__ == "__main__":
-    PROXY_URL = "http://live.artofknot.com:5080/proxy/channel?url="  
-    get_canli_tv_m3u(PROXY_URL)
+    get_canli_tv_m3u()
