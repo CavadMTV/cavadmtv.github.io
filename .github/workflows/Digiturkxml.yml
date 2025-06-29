@@ -39,12 +39,13 @@ jobs:
         run: |
           git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
 
-      - name: Değişiklikleri Commit Et
+            - name: Değiğişiklikleri Commit Et
         if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "📡 EPG güncellemesi tamamlandı" -m "EPG Güncellemesi yapıldı" - $GITHUB_SHA"
+          git commit -m "📡 EPG güncellemesi tamamlandı" -m "EPG Güncellemesi yapıldı - ${{ github.sha }}" # Buradaki tırnak işaretini ve değişken kullanımını düzelttim
           git push
+          
           
