@@ -10,8 +10,7 @@ on:
     - cron: '0 */3 * * *'  # Her 3 saatte bir çalışır
 
 jobs:
-  digiturkepg
-    
+  KabloGuncelle:  # Buradaki boşluğa dikkat edin
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,4 +47,4 @@ jobs:
           git add .
           git commit -m "📡 EPG güncellemesi tamamlandı" -m "EPG Güncellemesi yapıldı" - $GITHUB_SHA"
           git push
-  
+          
