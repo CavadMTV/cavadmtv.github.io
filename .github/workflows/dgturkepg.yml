@@ -32,7 +32,7 @@ jobs:
           pip install -U setuptools wheel Kekik httpx parsel requests
 
       - name: XML Oluştur
-        run: python Digitürkepg.py
+        run: python Digiturkepg.py
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
