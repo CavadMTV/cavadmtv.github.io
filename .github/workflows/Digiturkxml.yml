@@ -40,7 +40,7 @@ jobs:
         run: |
           git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
 
-                  - name: Değişiklikleri Commit Et
+      - name: Değişiklikleri Commit Et
         if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
         run: |
           git config user.name "github-actions[bot]"
