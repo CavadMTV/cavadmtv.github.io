@@ -796,7 +796,7 @@ https://winter-mouse-9f29.pantonum1.workers.dev/1165670263/index.m3u8
 
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 
-https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
+https://str.yodacdn.net/aztv_300_to_small/index.m3u8
 
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 
