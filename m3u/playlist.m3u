@@ -142,7 +142,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/e97IkoU.png" tvg-name="TRT Haber" group-title="Haber",TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Haber",A HABER HD
-https://cdn.tecostream.xyz/A_haber.m3u8
+https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" tvg-name="Haber TÃ¼rk" group-title="Haber",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/24.png" tvg-name="24 TV" group-title="Haber",24 TV
