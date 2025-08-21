@@ -142,13 +142,13 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/e97IkoU.png" tvg-name="TRT Haber" group-title="Haber",TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Haber",A HABER HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=nmY9i63t6qo&pp=UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+https://cdn.tecostream.xyz/A_haber.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" tvg-name="Haber TÃ¼rk" group-title="Haber",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/24.png" tvg-name="24 TV" group-title="Haber",24 TV
-https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8&live=true
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_CNN_T%C3%BCrk.svg/1200px-Logo_CNN_T%C3%BCrk.svg.png" tvg-name="CNN TURK" group-title="Haber",CNN TURK
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=bdDfLLy9Y5k&pp=ygUJQ25uIHTDvHJr.m3u8
+https://trn03.tulix.tv/gt-cnnturk-tv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc31.tvplus.com.tr:33207/CPS/images/universal/film/logo/202211/20221125/81/20221125094959589je3_op_0_XL.png" tvg-name="HABERGLOBAL" group-title="Haber",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV TÃ¼rk" group-title="Haber",NTV TR
@@ -160,7 +160,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/42/2119213578445eb78424_op_0_XL.webp" tvg-name="EKOL TV" group-title="Haber",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM3eR-XCvDEiqFSC9CKfwMizdqHs0O-C1GY3cRJAQnsSbHmUlMnz_-SjB9-faz1z0gvnIsCQw2K7QeWpBQ2rgapDSQ5nyJtyc_CQnPIJT4XVt4o7NlYrdD06HuHmlJifRnI9ULQ2ShsZRxit70HQhvPSyzrl_D-C7UdqK-N6EU0pyjmjNU_8JqHbiN/s512/unnamed.png" tvg-name="A PARA" group-title="Haber",A PARA
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=HILdFebkYys&pp=ygUGQSBwYXJh0gcJCd4JAYcqIYzv
+http://185.234.111.229:8000/play/a01l
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" tvg-name="Akit TV" group-title="Haber",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/2560px-GZT_logo.svg.png" tvg-name="GZT TV" group-title="Haber",GZT TV
@@ -168,7 +168,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/m2HgxQX.png" tvg-name="BENGÃœTÃœRK" group-title="Haber",BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/KRT_Logo_2023.webp/1024px-KRT_Logo_2023.webp.png" tvg-name="KRT TV" group-title="Haber",KRT
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk&pp=ygUIbGl2ZSBrcnQ.m3u8
+https://goldvod.org/tv/uyanik?id=41&ext=m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzottvsc16.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160921/001300/001300000008479107/a1fc0bf3-29f0-4c40-a881-bb8fc5cdee18.png" tvg-name="HABERGLOBAL" group-title="Haber",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/1200px-Tvnet_logo_%282022%29.svg.png" tvg-name="TV Net" group-title="Haber",TV Net
@@ -186,9 +186,9 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=dK96AZbCns0
 #EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="SÃ¶zcÃ¼ TV" group-title="Haber",Sözcü TV
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
+https://goldvod.org/tv/uyanik?id=18&ext=m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" tvg-name="beIN Sports Haber" group-title="BeIN Sports",beIN Sports Haber
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CtUorRNqC4s&pp=ygURYmVpbiBzcG9ydHMgaGFiZXI%3D.m3u8
+https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebsh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="BeIN Sports",beIN Sports 1
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="BeIN Sports",beIN Sports 1[OFFLINE]
