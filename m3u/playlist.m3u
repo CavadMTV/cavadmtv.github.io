@@ -83,11 +83,11 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Spor",TRT Spor
-https://live-cdn-65984.varplaycdn.cfd/trtspor/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Spor",TRT 3 SPOR
 http://flussonic.izone.az/trt3spor/index.m3u8
 #EXTINF:1 tvg-id="TRT Spor YÄ±ldÄ±z" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" tvg-language="Turkish" group-title="Spor",TRT SPOR YILDIZ HD
-https://live-cdn-65984.varplaycdn.cfd/trtspor2/tracks-v1a1/mono.m3u8
+https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivetsy.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="Spor",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://gbzeottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="Spor",HT-SPOR TV
