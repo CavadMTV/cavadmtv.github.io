@@ -824,7 +824,7 @@ https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/m
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
 
-https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+https://str.yodacdn.net/mtvaz/index.m3u8
 
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/gOAEQgv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 
@@ -840,7 +840,7 @@ http://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Mədəniyyət TV
 
-https://str2.yodacdn.net/meden_300_to_small/index.m3u8
+https://str.yodacdn.net/medeniyyettele/index.m3u8
 
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 
