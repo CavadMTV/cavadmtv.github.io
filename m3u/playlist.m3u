@@ -844,7 +844,7 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 
-https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/idmantele/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-language="Azerbaijani" group-title="Azərbaycan",CBC TV
 
