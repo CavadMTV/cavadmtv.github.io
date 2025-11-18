@@ -852,7 +852,7 @@ https://str.yodacdn.net/cbc/index.m3u8
 
 #EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="Azərbaycan",CBC Sport
 
-http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 
