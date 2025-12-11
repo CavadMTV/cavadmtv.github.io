@@ -800,7 +800,7 @@ https://str.yodacdn.net/azertv/index.m3u8?
 
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 
-http://flussonic.izone.az/azadazerbaycan/index.m3u8
+https://str.yodacdn.net/atv/index.m3u8
 
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 
