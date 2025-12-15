@@ -1,0 +1,36 @@
+name: M3U Playlist Güncelleyici
+
+on:
+  
+  workflow_dispatch:
+  
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: ⬇️ Depoyu Çıkar
+        uses: actions/checkout@v4
+        
+      - name: 🐍 Python'ı Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' 
+
+      - name: 📦 Gerekli Kütüphaneleri Kur
+        run: pip install requests
+
+      - name: ⚙️ M3U Dosyasını İndir ve Güncelle
+        run: python /files/m3u_ch.py
+        
+      - name: 🔄 Değişiklikleri Depoya Kaydet (Commit)
+        uses: stefanprodan/commit-and-push@v3
+        with:
+          message: 'chore: Otomatik M3U playlist güncellemesi
+          files: 'playlist.m3u'
+          commit_author: GitHub Actions <actions@github.com>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
