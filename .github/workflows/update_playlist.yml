@@ -22,13 +22,17 @@ jobs:
         run: pip install requests
 
       - name: ⚙️ M3U Dosyasını İndir ve Güncelle
-        run: python files/download_m3u.py
+        run: python files/m3u_ch.py
         
       - name: 🔄 Değişiklikleri Depoya Kaydet (Commit)
-        uses: stefanprodan/commit-and-push@v3
-        with:
-          message: 'chore: Otomatik M3U playlist güncellemesi'
-          files: 'playlist.m3u' 
-          commit_author: GitHub Actions <actions@github.com>
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "GitHub Actions Bot"
+            git config user.email "actions@github.com"
+            git add playlist.m3u
+            git commit -m "chore: Otomatik M3U playlist güncellemesi"
+            git push
+          else
+            echo "Dosyada değişiklik yok, commit atlanıyor."
+          fi
           
