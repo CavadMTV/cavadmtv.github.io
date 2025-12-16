@@ -186,7 +186,7 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/F2Xoptv.png" tvg-name="TRT ARABIA" group-title="Haber",TRT ARABIA
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Anews.png" group-title="Haber",A News
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ
+https://trn03.tulix.tv/gt-anews/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" tvg-name="HABERGLOBAL" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/e97IkoU.png" tvg-name="TRT Haber" group-title="Haber",TRT HABER HD
@@ -194,7 +194,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Haber",A HABER HD
 https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" tvg-name="Haber TÃ¼rk" group-title="Haber",Haber Türk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/24.png" tvg-name="24 TV" group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8&live=true
 #EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_CNN_T%C3%BCrk.svg/1200px-Logo_CNN_T%C3%BCrk.svg.png" tvg-name="CNN TURK" group-title="Haber",CNN TURK
