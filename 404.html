@@ -27,7 +27,7 @@
 
         /* Animasyonlu Resim */
         .error-img {
-            width: 200px; /* Resmin boyutu */
+            width: 200px; 
             height: auto;
             animation: float 3s infinite ease-in-out;
         }
@@ -38,13 +38,23 @@
             100% { transform: translateY(0); }
         }
 
-        /* Sayfa Bulunamadı Mesajı */
+        /* Türkçe Mesaj Stili */
         .message {
             font-size: 20px;
-            margin: 20px 0;
+            margin-top: 20px;
             opacity: 0;
             animation: fadeIn 2s forwards 1s;
             color: #b3b3b3;
+        }
+
+        /* İngilizce Mesaj Stili (Daha soluk ve küçük) */
+        .message-en {
+            font-size: 16px;
+            margin-top: 8px;
+            opacity: 0;
+            animation: fadeIn 2s forwards 1.5s;
+            color: #666666; /* Daha soluk bir gri tonu */
+            font-style: italic;
         }
 
         @keyframes fadeIn {
@@ -57,7 +67,7 @@
             text-decoration: none;
             color: #f1faee;
             font-size: 18px;
-            margin-top: 20px;
+            margin-top: 30px;
             display: inline-block;
             padding: 10px 20px;
             border-radius: 5px;
@@ -75,7 +85,12 @@
 <body>
 
     <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="404 Logo" class="error-img">
+    
     <div class="message">Giriş yapmaya çalıştığınız sayfa şu anda mevcut değil.</div>
+    
+    <div class="message-en">The page you are looking for is currently unavailable.</div>
+
+    <a href="/" class="btn">Ana Sayfaya Dön</a>
     
 </body>
 </html>
