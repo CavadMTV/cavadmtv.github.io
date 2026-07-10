@@ -9,7 +9,7 @@ https://www.xezerxeber.az/stream/index.m3u8
 https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://kedysmt.github.io/files/logos/az/itv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV [HD]
 https://live.itv.az/itv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://kedysmt.github.io/files/logos/az/arb24.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24
+#EXTINF:1 tvg-id="" tvg-logo="https://kedysmt.github.io/files/logos/az/arb24_alt.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24
 https://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://kedysmt.github.io/files/logos/az/arb24_alt.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 -2
 https://cavad-live.global.ssl.fastly.net/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-24.m3u8
